@@ -1,6 +1,6 @@
 # contact_picker_app
 
-A new Flutter project.
+A sample demo of a contact picker feature that is able to select, display, and update the user's choice of contact using the device's native contact picker menu.
 
 ## Getting Started
 
